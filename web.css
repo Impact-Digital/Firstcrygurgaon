@@ -1,13 +1,12 @@
    body {
           
           font-family: 'Roboto Slab';
-          background-color: black;
+          background-color: #fbb963;
           -webkit-background-size: cover;
           -moz-background-size: cover;
           -o-background-size: cover;
           background-size: cover;
-          color: #0000009a;
-          color: white;
+          color: #b00cf19a;
         }
 
 .togl{
@@ -99,14 +98,14 @@
   display: flex;
   width: 50px;
   height: 50px;
-  background-color: gold;
+  background-color: rgb(84, 245, 153);
   border-radius: 100%;
   justify-content: center;
   align-items: center;
 }
 .contact_font{
   font-size: 1.8rem;
-  color: black;
+  color: rgb(255, 0, 144);
 
 }
 .hr{
@@ -116,7 +115,6 @@
   margin-left: 10%;
   margin-right: 10%;
 }
-
 .content{
   width: 200px;
 }
@@ -167,7 +165,7 @@ footer{
 }
 .all_font{
   text-decoration: none;
-  color: gold;
+  color: black;
   font-size: 3.5rem ;
 }
 
@@ -190,7 +188,6 @@ footer{
   margin: auto;
   text-align: center;
   font-family: arial;
-  background-color: gold;
   /* height: 260px; */
 }
 
