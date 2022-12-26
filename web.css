@@ -1,12 +1,13 @@
-   body {
+body {
           
           font-family: 'Roboto Slab';
-          background-color: #fbb963;
+          background-color: darkblue;
           -webkit-background-size: cover;
           -moz-background-size: cover;
           -o-background-size: cover;
           background-size: cover;
-          color: #b00cf19a;
+          color: #0000009a;
+          color: white;
         }
 
 .togl{
@@ -81,6 +82,7 @@
     border: solid 5px rgba(255, 255, 255, 0.424);
 
 
+
 }
 .avtar{
     text-align: center;
@@ -98,14 +100,14 @@
   display: flex;
   width: 50px;
   height: 50px;
-  background-color: rgb(84, 245, 153);
+  background-color: white;
   border-radius: 100%;
   justify-content: center;
   align-items: center;
 }
 .contact_font{
   font-size: 1.8rem;
-  color: rgb(255, 0, 144);
+  color: red;
 
 }
 .hr{
@@ -115,6 +117,7 @@
   margin-left: 10%;
   margin-right: 10%;
 }
+
 .content{
   width: 200px;
 }
@@ -165,9 +168,35 @@ footer{
 }
 .all_font{
   text-decoration: none;
-  color: black;
+  color: lightgreen;
   font-size: 3.5rem ;
 }
+.all_font1{
+  text-decoration: none;
+  color: red;
+  font-size: 3.5rem ;
+}
+.all_font2{
+  text-decoration: none;
+  color: #3b5998;
+  font-size: 3.5rem ;
+}
+.all_font3{
+  text-decoration: none;
+  color: cyan;
+  font-size: 3.5rem ;
+}
+.all_font4{
+  text-decoration: none;
+  color: pink;
+  font-size: 3.5rem ;
+}
+.all_font5{
+  text-decoration: none;
+  color: cyan;
+  font-size: 3.5rem ;
+}
+
 
 .brands img{
   width: 300px;
@@ -188,6 +217,8 @@ footer{
   margin: auto;
   text-align: center;
   font-family: arial;
+  color: white;
+  background-color: black;
   /* height: 260px; */
 }
 
@@ -200,8 +231,8 @@ footer{
   border: none;
   outline: 0;
   padding: 12px;
-  color: white;
-  background-color: #000;
+  color: red;
+  background-color: yellow;
   text-align: center;
   cursor: pointer;
   width: 100%;
@@ -211,3 +242,5 @@ footer{
 .card button:hover {
   opacity: 0.7;
 }
+
+.a-line{ border: 3px solid darkblue;text-align: center;width: 50px;}
